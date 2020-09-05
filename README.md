@@ -3,7 +3,7 @@
 Server for the magicdecor room designer application. This doesn't contain the code for the full features.
 
 # Preview
-![](https://media.giphy.com/media/h5cjg93Pt8MMnlydBV/giphy.gif)
+![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
 
 ---
 ## Requirements
