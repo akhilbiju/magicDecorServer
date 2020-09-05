@@ -1,6 +1,7 @@
 # MagicDecor Server
 
 Server for the magicdecor room designer application. This doesn't contain the code for the full features.
+Client(UI side) code not available for public.
 
 # Preview
 ![](demo.gif)
