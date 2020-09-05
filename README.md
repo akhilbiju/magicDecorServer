@@ -3,7 +3,7 @@
 Server for the magicdecor room designer application. This doesn't contain the code for the full features.
 
 # Preview
-![Preview not available](https://media.giphy.com/media/lShRLaM0izbbC0A3AQ/giphy.gif)
+![](https://media.giphy.com/media/h5cjg93Pt8MMnlydBV/giphy.gif)
 
 ---
 ## Requirements
