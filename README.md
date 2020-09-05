@@ -2,6 +2,8 @@
 
 Server for the magicdecor room designer application. This doesn't contain the code for the full features.
 
+# Preview
+![Preview not available](https://media.giphy.com/media/lShRLaM0izbbC0A3AQ/giphy.gif)
 
 ---
 ## Requirements
@@ -47,7 +49,7 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Install
 
     $ git clone https://github.com/akhilbiju/magicDecorServer
-    $ cd PROJECT_TITLE
+    $ cd magicDecorServer
     $ yarn install
 
 ## Running the project
